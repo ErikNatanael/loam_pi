@@ -1,0 +1,396 @@
+{
+ "repo_name": "WebAudio/web-audio-api",
+ "total_contributions": 3303,
+ "contributors": [
+  {
+   "type": "User",
+   "contributions": 1082,
+   "id": "rtoy"
+  },
+  {
+   "type": "User",
+   "contributions": 493,
+   "id": "padenot"
+  },
+  {
+   "type": "User",
+   "contributions": 466,
+   "id": "hoch"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 395,
+   "id": "7905bae6744dbe4e"
+  },
+  {
+   "type": "User",
+   "contributions": 213,
+   "id": "joeberkovitz"
+  },
+  {
+   "type": "User",
+   "contributions": 176,
+   "id": "cwilso"
+  },
+  {
+   "type": "User",
+   "contributions": 116,
+   "id": "svgeesus"
+  },
+  {
+   "type": "User",
+   "contributions": 46,
+   "id": "ehsan"
+  },
+  {
+   "type": "User",
+   "contributions": 34,
+   "id": "bill-hofmann"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 34,
+   "id": "7414f657378f80e1"
+  },
+  {
+   "type": "User",
+   "contributions": 26,
+   "id": "mdjp"
+  },
+  {
+   "type": "User",
+   "contributions": 22,
+   "id": "jussi-kalliokoski"
+  },
+  {
+   "type": "User",
+   "contributions": 20,
+   "id": "rocallahan"
+  },
+  {
+   "type": "User",
+   "contributions": 12,
+   "id": "olivierthereaux"
+  },
+  {
+   "type": "User",
+   "contributions": 10,
+   "id": "dontcallmedom"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 10,
+   "id": "51eab5fb1c18266d"
+  },
+  {
+   "type": "User",
+   "contributions": 8,
+   "id": "chrisn"
+  },
+  {
+   "type": "User",
+   "contributions": 8,
+   "id": "chrisguttandin"
+  },
+  {
+   "type": "User",
+   "contributions": 6,
+   "id": "marcoscaceres"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 6,
+   "id": "30bf5ce6e3460bc5"
+  },
+  {
+   "type": "User",
+   "contributions": 6,
+   "id": "karlt"
+  },
+  {
+   "type": "User",
+   "contributions": 6,
+   "id": "ArnaudBienner"
+  },
+  {
+   "type": "User",
+   "contributions": 5,
+   "id": "domenic"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 5,
+   "id": "1987953d469fde0a"
+  },
+  {
+   "type": "User",
+   "contributions": 5,
+   "id": "Korilakkuma"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 5,
+   "id": "48f7f25c1a14b2ce"
+  },
+  {
+   "type": "User",
+   "contributions": 5,
+   "id": "Manishearth"
+  },
+  {
+   "type": "User",
+   "contributions": 5,
+   "id": "billhofmann"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "guest271314"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "tidoust"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "hughrawlinson"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "saschanaz"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "6a6adb58db65aa72"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "foolip"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "jdsmith3000"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "mark-buer"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "satelllte"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "autokagami"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "scottlow"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "ouhouhsami"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "mounirlamouri"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "MeenuyD"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "ferjm"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "1a215f8474dfe9c2"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "miketaylr"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "nschonni"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "therobinkim"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "cynthia"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "6c12702bd41d0d3d"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "248b6996a137cf7d"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "khodzha"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "simon-robertson"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "tim-we"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "2558318a9c596ac5"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "tobie"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "re-sounding"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "giuliomoro"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "kubosho"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "plehegar"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "skratchdot"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "tripu"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "andypea"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "AFBarstow"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "citelao"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "notthetup"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "36b2fb562e615acd"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "chrislo"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "christopheralcock"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "guiseek"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "26d992607bf05e00"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "0joshuaolson1"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "kevinbarabash"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "KristofferStrube"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "3642905b9045985c"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "mkruisselbrink"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "7d27128295dc62f5"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "mathiasbynens"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "majaha"
+  }
+ ]
+}

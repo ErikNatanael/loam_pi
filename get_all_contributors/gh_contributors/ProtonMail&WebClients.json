@@ -1,0 +1,876 @@
+{
+ "repo_name": "ProtonMail/WebClients",
+ "total_contributions": 37819,
+ "contributors": [
+  {
+   "type": "Anonymous",
+   "contributions": 6971,
+   "id": "4fa1f98bdad52c6b"
+  },
+  {
+   "type": "User",
+   "contributions": 4154,
+   "id": "mmso"
+  },
+  {
+   "type": "User",
+   "contributions": 3001,
+   "id": "EpokK"
+  },
+  {
+   "type": "User",
+   "contributions": 2296,
+   "id": "edvincandon"
+  },
+  {
+   "type": "User",
+   "contributions": 2146,
+   "id": "nico3333fr"
+  },
+  {
+   "type": "User",
+   "contributions": 1638,
+   "id": "econdepe"
+  },
+  {
+   "type": "User",
+   "contributions": 1208,
+   "id": "proton-ci"
+  },
+  {
+   "type": "User",
+   "contributions": 1092,
+   "id": "StraightOuttaCrompton"
+  },
+  {
+   "type": "User",
+   "contributions": 1082,
+   "id": "Swiip"
+  },
+  {
+   "type": "User",
+   "contributions": 864,
+   "id": "Guillaumez"
+  },
+  {
+   "type": "User",
+   "contributions": 738,
+   "id": "Twikito"
+  },
+  {
+   "type": "User",
+   "contributions": 702,
+   "id": "flavienbonvin"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 613,
+   "id": "45650c8b3e8ef918"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 535,
+   "id": "41ba978fb3148392"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 510,
+   "id": "163685a13ff65a38"
+  },
+  {
+   "type": "User",
+   "contributions": 508,
+   "id": "lkpch"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 459,
+   "id": "6059f9705bb34379"
+  },
+  {
+   "type": "User",
+   "contributions": 446,
+   "id": "vincaslt"
+  },
+  {
+   "type": "User",
+   "contributions": 436,
+   "id": "HeadFox"
+  },
+  {
+   "type": "User",
+   "contributions": 433,
+   "id": "horejsek"
+  },
+  {
+   "type": "User",
+   "contributions": 424,
+   "id": "MatthiasMargot"
+  },
+  {
+   "type": "User",
+   "contributions": 421,
+   "id": "D-Bao"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 397,
+   "id": "65d6a1c2c25fc96f"
+  },
+  {
+   "type": "User",
+   "contributions": 367,
+   "id": "dhoko"
+  },
+  {
+   "type": "User",
+   "contributions": 366,
+   "id": "MantvidasProton"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 325,
+   "id": "558c765b041a73a8"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 287,
+   "id": "233c50faef045e15"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 229,
+   "id": "486af1d8a1998b33"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 222,
+   "id": "393db91d409ac48f"
+  },
+  {
+   "type": "User",
+   "contributions": 221,
+   "id": "WebAtProton"
+  },
+  {
+   "type": "User",
+   "contributions": 217,
+   "id": "sergonius"
+  },
+  {
+   "type": "User",
+   "contributions": 214,
+   "id": "LeGrosSancho"
+  },
+  {
+   "type": "User",
+   "contributions": 211,
+   "id": "p2kmgcl"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 210,
+   "id": "12fcf0866e697b32"
+  },
+  {
+   "type": "User",
+   "contributions": 208,
+   "id": "jeremybenaim"
+  },
+  {
+   "type": "User",
+   "contributions": 206,
+   "id": "owoloschin"
+  },
+  {
+   "type": "User",
+   "contributions": 198,
+   "id": "pbondoer"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 185,
+   "id": "62c17c2bd2338391"
+  },
+  {
+   "type": "User",
+   "contributions": 168,
+   "id": "Cronosh"
+  },
+  {
+   "type": "User",
+   "contributions": 158,
+   "id": "djankovic"
+  },
+  {
+   "type": "User",
+   "contributions": 157,
+   "id": "larabr"
+  },
+  {
+   "type": "User",
+   "contributions": 133,
+   "id": "AleTid5"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 133,
+   "id": "097e5768441c116f"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 123,
+   "id": "1dfa7ff7e9d074bb"
+  },
+  {
+   "type": "User",
+   "contributions": 107,
+   "id": "petreskizlatko"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 100,
+   "id": "1dcb3657bc7e75ee"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 99,
+   "id": "200844796303e909"
+  },
+  {
+   "type": "User",
+   "contributions": 89,
+   "id": "kylekatarnls"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 86,
+   "id": "3f5f774770aa81a6"
+  },
+  {
+   "type": "User",
+   "contributions": 78,
+   "id": "lubux"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 77,
+   "id": "3d3959cdbe227b2e"
+  },
+  {
+   "type": "User",
+   "contributions": 73,
+   "id": "marinthiercelin"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 70,
+   "id": "45650c8b3e8ef918"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 64,
+   "id": "57c9dd52d7484fdb"
+  },
+  {
+   "type": "User",
+   "contributions": 64,
+   "id": "Yiin"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 62,
+   "id": "378504afebf8bb4d"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 61,
+   "id": "3025bdc212ab427f"
+  },
+  {
+   "type": "User",
+   "contributions": 57,
+   "id": "gruyere-prog"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 48,
+   "id": "15069e3ef2e2cf2d"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 47,
+   "id": "14ec52a99f172314"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 46,
+   "id": "2ba9cd9618213f90"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 41,
+   "id": "26017fc8c99ad09d"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 40,
+   "id": "3a080de8e4516680"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 40,
+   "id": "57478c1e455720c9"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 38,
+   "id": "57c9dd52d7484fdb"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 37,
+   "id": "195385774b673084"
+  },
+  {
+   "type": "User",
+   "contributions": 36,
+   "id": "moughxyz"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 33,
+   "id": "0c8935ee794b65e1"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 33,
+   "id": "4ba5361a5457c1cf"
+  },
+  {
+   "type": "User",
+   "contributions": 32,
+   "id": "irena-zaz"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 31,
+   "id": "4518c3d2992dbb03"
+  },
+  {
+   "type": "User",
+   "contributions": 29,
+   "id": "germain-gg"
+  },
+  {
+   "type": "User",
+   "contributions": 27,
+   "id": "pedroamaroproton"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 25,
+   "id": "41778cb9536ce424"
+  },
+  {
+   "type": "User",
+   "contributions": 25,
+   "id": "jpbochi"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 24,
+   "id": "15069e3ef2e2cf2d"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 23,
+   "id": "47c0dc06d2c99458"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 22,
+   "id": "30afbee0d9a18c99"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 21,
+   "id": "198bf03a61c4cd29"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 19,
+   "id": "163b2be050d92202"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 19,
+   "id": "4373252e2e4872c1"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 17,
+   "id": "05cb037f777b33b7"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 17,
+   "id": "378504afebf8bb4d"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 16,
+   "id": "1e81f33ada07d5c4"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 14,
+   "id": "2ae5f1d5de5c1e0a"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 13,
+   "id": "4ba5361a5457c1cf"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 12,
+   "id": "3cae4488f73e5c5c"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 12,
+   "id": "65aefc6260733a6c"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 12,
+   "id": "4ed1b8ea18379dcf"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 12,
+   "id": "09ce0eb1217ff074"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 11,
+   "id": "300c366ec3385770"
+  },
+  {
+   "type": "User",
+   "contributions": 11,
+   "id": "ntnhon"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 9,
+   "id": "667dd3aeb5572772"
+  },
+  {
+   "type": "User",
+   "contributions": 8,
+   "id": "giuseppe-arcuti"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 8,
+   "id": "198bf03a61c4cd29"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 8,
+   "id": "1fae0a0368e91095"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 7,
+   "id": "4a0743708dacdb51"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 7,
+   "id": "40d172b0cf868a1e"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 7,
+   "id": "2fb903a26ff109c7"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 7,
+   "id": "3357b45bfb8ee95e"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 7,
+   "id": "1072f90f5630aa25"
+  },
+  {
+   "type": "User",
+   "contributions": 6,
+   "id": "denyszet"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 6,
+   "id": "16d57869fb0abf93"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 6,
+   "id": "163b2be050d92202"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 6,
+   "id": "11fc6867462610fd"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 6,
+   "id": "3be4085b1872ec60"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 6,
+   "id": "2a6d2657a5ab6fc7"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 5,
+   "id": "3f5f774770aa81a6"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 5,
+   "id": "0a90860cd6b3613b"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 5,
+   "id": "297c77b5e433ca96"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "rob-patchett"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 4,
+   "id": "549f146e1d5e00d8"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 4,
+   "id": "0e8b30696c01af6c"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 4,
+   "id": "009e28b16f0929b1"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 4,
+   "id": "2cf49b8e777d5e11"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 4,
+   "id": "2be445bccccb408e"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "twiss"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "DeepSpaceHarbor"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 4,
+   "id": "09b5a54a0cba9797"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "acasajus"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "1dfa7ff7e9d074bb"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "7ecdd5db0424b030"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "7ecdd5db0424b030"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "2abb34a2c1da23f7"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "2fb903a26ff109c7"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "63fbb3fadc0d2447"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "4475492e8d693281"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "valentinbonneaud"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "7ec3fb878c9a9d4f"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "ThHareau"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "sveinki"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "70c1c3fdb365860c"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "3643f59b9ff0e909"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "6c23158285fe453e"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "112999b53b504f4b"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "4518c3d2992dbb03"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "1fae0a0368e91095"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "5161107cd197d004"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "0434371c2ec3bc8e"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "Richardds"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "69646e53e3685f9b"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "42c473dbeaabb1b9"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "sathia27"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "270a4b828de2519c"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "50f20862f54f504f"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "161d9d54f4196485"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "1356af0ad8d684ec"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "4735781c0dc274bb"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "01fdffce81f052c9"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "szepeviktor"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "raincz"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "4a262fa4f9f0cb2b"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "0e813e44dd0d8600"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "keithfancher"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "kwojwaj"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "zhj4478"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "akanshgulati"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "72a7fa6022794970"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "78116afc7ed8ef3c"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "4dbbe95ba309819f"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "cmolina"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "itsmedondi"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "emilio"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "12477dbc6457ce4f"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "3a78bf70d5cdf459"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "49abe25262028c76"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "cuthix"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "0a0b99fa7a52e0ea"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "odontomachus"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "759fac1d0b3ceea6"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "5da851d35ad7af7a"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "678c6bcfdb1728a7"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "nagromc"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "7e1c8e3a6812e6ed"
+  }
+ ]
+}

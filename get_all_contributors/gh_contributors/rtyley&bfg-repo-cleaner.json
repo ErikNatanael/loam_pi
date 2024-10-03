@@ -1,0 +1,41 @@
+{
+ "repo_name": "rtyley/bfg-repo-cleaner",
+ "total_contributions": 488,
+ "contributors": [
+  {
+   "type": "User",
+   "contributions": 468,
+   "id": "rtyley"
+  },
+  {
+   "type": "User",
+   "contributions": 14,
+   "id": "javabrett"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "dwijnand"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "alecthegeek"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "2f1a15d77a51eea4"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "0b6e625b1e8896e3"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "PeterDaveHello"
+  }
+ ]
+}

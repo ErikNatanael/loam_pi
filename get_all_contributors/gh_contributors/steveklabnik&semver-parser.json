@@ -1,0 +1,91 @@
+{
+ "repo_name": "steveklabnik/semver-parser",
+ "total_contributions": 123,
+ "contributors": [
+  {
+   "type": "User",
+   "contributions": 71,
+   "id": "steveklabnik"
+  },
+  {
+   "type": "User",
+   "contributions": 18,
+   "id": "udoprog"
+  },
+  {
+   "type": "User",
+   "contributions": 9,
+   "id": "mikrostew"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "hone"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "raphlinus"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "matklad"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "djc"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "4b51b704c8705f10"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "kamalmarhubi"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "ScottAbbey"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "212c03c6c655a5da"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "stanciuadrian"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "BurntSushi"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "connorkuehl"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "Keruspe"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "rap2hpoutre"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "Byron"
+  }
+ ]
+}

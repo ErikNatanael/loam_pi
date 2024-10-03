@@ -1,0 +1,271 @@
+{
+ "repo_name": "nextcloud/talk-android",
+ "total_contributions": 9480,
+ "contributors": [
+  {
+   "type": "User",
+   "contributions": 2348,
+   "id": "AndyScherzinger"
+  },
+  {
+   "type": "User",
+   "contributions": 1806,
+   "id": "nextcloud-bot"
+  },
+  {
+   "type": "User",
+   "contributions": 1503,
+   "id": "mahibi"
+  },
+  {
+   "type": "User",
+   "contributions": 1424,
+   "id": "mario"
+  },
+  {
+   "type": "Bot",
+   "contributions": 444,
+   "id": "dependabot[bot]"
+  },
+  {
+   "type": "User",
+   "contributions": 316,
+   "id": "timkrueger"
+  },
+  {
+   "type": "User",
+   "contributions": 263,
+   "id": "nextcloud-android-bot"
+  },
+  {
+   "type": "Bot",
+   "contributions": 236,
+   "id": "renovate[bot]"
+  },
+  {
+   "type": "User",
+   "contributions": 146,
+   "id": "danxuliu"
+  },
+  {
+   "type": "User",
+   "contributions": 139,
+   "id": "sowjanyakch"
+  },
+  {
+   "type": "User",
+   "contributions": 119,
+   "id": "nickvergessen"
+  },
+  {
+   "type": "User",
+   "contributions": 117,
+   "id": "rapterjet2004"
+  },
+  {
+   "type": "User",
+   "contributions": 115,
+   "id": "AlvaroBrey"
+  },
+  {
+   "type": "Bot",
+   "contributions": 97,
+   "id": "github-actions[bot]"
+  },
+  {
+   "type": "User",
+   "contributions": 88,
+   "id": "tobiasKaminsky"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 73,
+   "id": "708cf3333d576e97"
+  },
+  {
+   "type": "User",
+   "contributions": 50,
+   "id": "starypatyk"
+  },
+  {
+   "type": "User",
+   "contributions": 30,
+   "id": "Smarshal21"
+  },
+  {
+   "type": "User",
+   "contributions": 24,
+   "id": "parneet-guraya"
+  },
+  {
+   "type": "User",
+   "contributions": 23,
+   "id": "Valdnet"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 22,
+   "id": "1123211be62eb367"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 11,
+   "id": "1ec1e639889cfcd5"
+  },
+  {
+   "type": "User",
+   "contributions": 10,
+   "id": "rakekniven"
+  },
+  {
+   "type": "User",
+   "contributions": 8,
+   "id": "skjnldsv"
+  },
+  {
+   "type": "User",
+   "contributions": 7,
+   "id": "ardevd"
+  },
+  {
+   "type": "User",
+   "contributions": 6,
+   "id": "Ruggero1912"
+  },
+  {
+   "type": "User",
+   "contributions": 6,
+   "id": "ASerbinski"
+  },
+  {
+   "type": "User",
+   "contributions": 5,
+   "id": "ezhil56x"
+  },
+  {
+   "type": "User",
+   "contributions": 5,
+   "id": "comradekingu"
+  },
+  {
+   "type": "User",
+   "contributions": 4,
+   "id": "dan0xii"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "SquishyGirl"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 3,
+   "id": "5e0d8f80ad24794d"
+  },
+  {
+   "type": "User",
+   "contributions": 3,
+   "id": "MorrisJobke"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "o0lwj0o"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "provokateurin"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "53246f60d0645fb2"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "MichaIng"
+  },
+  {
+   "type": "User",
+   "contributions": 2,
+   "id": "dschuermann"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 2,
+   "id": "09e84d26251de536"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "sokai"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "5a8fa509ab8e73b1"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "5b1cd4a8e75c3905"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "tilosp"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "stephanritscher"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "stefan-niedermann"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "Poussinou"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "708cf3333d576e97"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "joshtrichards"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "53879229cb80afb8"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "jancborchardt"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "bhavesh100"
+  },
+  {
+   "type": "Anonymous",
+   "contributions": 1,
+   "id": "708cf3333d576e97"
+  },
+  {
+   "type": "User",
+   "contributions": 1,
+   "id": "abhi472"
+  }
+ ]
+}
