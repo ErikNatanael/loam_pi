@@ -36,6 +36,7 @@ function loadRepos(myList, kind) {
 
 function createProject(leftText, rightText, strings) {
     let size = 500;
+    shuffle(strings, true);
     while (strings.length > 0) {
         projectsData.push({
             leftText: leftText,
